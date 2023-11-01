@@ -11,5 +11,5 @@ jobs:
           sketch-paths: |
             - ./
           libraries: |
-            - name: LiquidCrystal_I2C
+            - name: "LiquidCrystal I2C"
           enable-deltas-report: true
